@@ -1,0 +1,2 @@
+D:\git Code\ReC-\C++课本\Debug\C++课本.exe
+D:\git Code\ReC-\C++课本\Debug\C++课本.pdb
